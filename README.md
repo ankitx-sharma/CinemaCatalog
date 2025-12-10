@@ -1,9 +1,15 @@
 # CinemaCatalog
-In this Project, I have made a website similar to IMDB where you can create a playlistof your watched movies. I have build it using python, flask, jinja2 for the backend and html, css for the frontend and mongodb as the database.
+In this project, I built a website inspired by IMDB that allows users to create and manage a personal playlist of movies they have watched. The application is developed using Python, Flask, and Jinja2 on the backend, with HTML/CSS for the frontend and MongoDB as the database. It demonstrates core concepts of web development, user interaction, and database-driven application design.
 
-Live Link: https://cinemacatalog.onrender.com/
+<!--Live Link: https://cinemacatalog.onrender.com/-->
 
-# Features
+## Screenshots
+<img width="450" height="250" alt="Screenshot 2025-12-10 194032" src="https://github.com/user-attachments/assets/6daa4363-0416-4422-9e1e-333dcadb0656" />
+<img width="450" height="250" alt="Screenshot 2025-12-10 194017" src="https://github.com/user-attachments/assets/cd5744d7-c91c-42bc-ac44-b98e29e890ca" />
+<img width="450" height="250" alt="Screenshot 2025-12-10 193954" src="https://github.com/user-attachments/assets/57b0fe43-6e19-4de9-992b-240d9678990f" />
+<img width="450" height="250" alt="Screenshot 2025-12-10 194006" src="https://github.com/user-attachments/assets/0f8677ef-d1be-4f07-8d8f-6f913f703595" />
+
+## Features
 - Show Featured movies
 - View Movie Details
 - Rate a Movie
@@ -13,12 +19,12 @@ Live Link: https://cinemacatalog.onrender.com/
 - User Login
 - User Register
 
-# To Do
+## To Do
 - Only Admin login can edit a movie
 - Add more data
 - Credits page
 
-# Usage
+## Usage
 Here's how you can use the Project:
 1. Install pyenv-win
 2. Unrestrict the execution-policy for pyenv
@@ -30,10 +36,5 @@ Here's how you can use the Project:
 8. Create a .env file and add the following property: MONGODB_URI = "<path for your cluster>"
 9. Run the application using "flask run"
   
-# About
-I developed this project to demonstrate my application development skills. As a software developer, I wanted to explore python api concepts and showcase my skills in web development. I hope this project serves as a demonstration of my capabilities and reflects my passion for IT industry.
-
-# Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to me at ankitasharma.281993@gmail.com.
-
-Thank you for your interest in CinemaCatalog. I hope you find it interesting and valuable.
+## Purpose
+I developed this project to strengthen my application development skills and deepen my understanding of Python-based APIs and web technologies. As a software developer, I wanted to explore practical backend–frontend integration while refining my overall development workflow. I hope this project not only showcases my work but also inspires you to explore, learn, and build something of your own.
