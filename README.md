@@ -1,13 +1,16 @@
 # CinemaCatalog
+
+<img alt="Screenshot 2025-12-10 194032" src="https://github.com/user-attachments/assets/6daa4363-0416-4422-9e1e-333dcadb0656" />
+
+---
 In this project, I built a website inspired by IMDB that allows users to create and manage a personal playlist of movies they have watched. The application is developed using Python, Flask, and Jinja2 on the backend, with HTML/CSS for the frontend and MongoDB as the database. It demonstrates core concepts of web development, user interaction, and database-driven application design.
 
 <!--Live Link: https://cinemacatalog.onrender.com/-->
 
 ## Screenshots
-<img width="450" height="250" alt="Screenshot 2025-12-10 194032" src="https://github.com/user-attachments/assets/6daa4363-0416-4422-9e1e-333dcadb0656" />
-<img width="450" height="250" alt="Screenshot 2025-12-10 194017" src="https://github.com/user-attachments/assets/cd5744d7-c91c-42bc-ac44-b98e29e890ca" />
-<img width="450" height="250" alt="Screenshot 2025-12-10 193954" src="https://github.com/user-attachments/assets/57b0fe43-6e19-4de9-992b-240d9678990f" />
-<img width="450" height="250" alt="Screenshot 2025-12-10 194006" src="https://github.com/user-attachments/assets/0f8677ef-d1be-4f07-8d8f-6f913f703595" />
+<img width="650" alt="Screenshot 2025-12-10 194017" src="https://github.com/user-attachments/assets/cd5744d7-c91c-42bc-ac44-b98e29e890ca" />
+<img width="650" alt="Screenshot 2025-12-10 193954" src="https://github.com/user-attachments/assets/57b0fe43-6e19-4de9-992b-240d9678990f" />
+<img width="650" alt="Screenshot 2025-12-10 194006" src="https://github.com/user-attachments/assets/0f8677ef-d1be-4f07-8d8f-6f913f703595" />
 
 ## Features
 - Show Featured movies
